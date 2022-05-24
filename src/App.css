@@ -23,6 +23,10 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.delete-icon{
+  cursor:pointer;
+}
+
 
 .App-link {
   color: #61dafb;
